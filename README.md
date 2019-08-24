@@ -26,6 +26,9 @@
 ![](https://github.com/idiotkingdom1997/2019-Taitung-BNES-Reading-Boat/blob/master/002.%20Handbook/GIF.gif)
 <br/>
 <br/>
+![](https://github.com/idiotkingdom1997/2019-Taitung-BNES-Reading-Boat/blob/master/002.%20Handbook/%E5%B9%B3%E5%8F%B0GIF.gif)
+<br/>
+<br/>
 ***
 ## 如何達成合作建造：<br/>
 * 請參閱［初次合作建造就上手 Collab-Const-Quick-Guide］：<br/>
