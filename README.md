@@ -1,12 +1,12 @@
 # 2019-Taitung-BNES-Reading-Boat
-贊助 : 行政院農委會林務局  得利塗料
 
 >Humanitarian Architecture in Cambodia<br/>
 以台灣國產木材為主體構築材料之人道建築案例，主要材料來源自：行政院農業委員會林務局「台灣木材」標章、臺東林區管理處「香杉」、正昌製材有限公司「台灣杉」、台灣阿克蘇諾貝爾塗料股份有限公司「得利塗料」、東皇昌五金工具有限公司「五金材料」。由交大義築團隊策劃，公東高工家具木工科、南港高工土木科進行實作，規劃設計一個可容納約15名師生使用，離地抬高150公分的閱讀台階及活動平台。<br/>
 
 ## 基地環境：<br/>
-位於台東<br/>
-* 氣象觀測歷史紀錄：https://e-service.cwb.gov.tw/HistoryDataQuery/MonthDataController.do?command=viewMain&station=467660&stname=%25E8%2587%25BA%25E6%259D%25B1&datepicker=2018-08 <br/>
+台灣東部太平洋沿岸，北回歸線以南，有焚風、颱風、東北季風，海風具高度鹽分，設計時需注意材料防潮防蝕保護。<br/>
+* 基地環境氣象資料：https://www.cwb.gov.tw/V7/climate/monthlyData/mD.htm <br/>
+* 氣象觀測歷史紀錄：https://e-service.cwb.gov.tw/HistoryDataQuery/index.jsp <br/>
 * Google Map 位置：https://goo.gl/maps/whQMfPcNdqQ1RDNp8  <br/>
 
 ![](https://github.com/AHA-Taiwan/2019-Taitung-BNES-Reading-Boat/blob/master/001.%20Blueprint/README%20IMAGE/GMAP.png "Google Map")
