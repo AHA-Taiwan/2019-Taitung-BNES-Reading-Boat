@@ -18,9 +18,11 @@
 ![](https://github.com/AHA-Taiwan/2019-Taitung-BNES-Reading-Boat/blob/master/001.%20Blueprint/README%20IMAGE/2019Taitung%20(1).PNG "3D Model")
 <br/>
 <br/>
+平台工序步驟
 ![](https://github.com/idiotkingdom1997/2019-Taitung-BNES-Reading-Boat/blob/master/002.%20Handbook/%E5%B9%B3%E5%8F%B0GIF.gif)
 <br/>
 <br/>
+台階工序步驟
 ![](https://github.com/idiotkingdom1997/2019-Taitung-BNES-Reading-Boat/blob/master/002.%20Handbook/GIF.gif)
 <br/>
 <br/>
