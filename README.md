@@ -15,7 +15,7 @@
 * 主要建材：台灣杉[3.8x8.9x360cm]、香杉[直徑27-30cm，長度420cm]、304不鏽鋼M6牙條 [長度100cm]、袋帽、華司、螺母等五金系統。
 * 數位模型［整體木構3D］：https://skfb.ly/6MDQK
 
-![](https://github.com/AHA-Taiwan/2019-Cambodia-DPC-Reading-Deck/blob/master/001.%20Blueprint/README%20IMAGE/DPC%20sketchfab.PNG "3D Model")
+![](https://github.com/AHA-Taiwan/2019-Taitung-BNES-Reading-Boat/blob/master/001.%20Blueprint/README%20IMAGE/2019Taitung%20(1).PNG "3D Model")
 <br/>
 <br/>
 ![](https://github.com/idiotkingdom1997/2019-Taitung-BNES-Reading-Boat/blob/master/002.%20Handbook/GIF.gif)
